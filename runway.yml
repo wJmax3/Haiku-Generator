@@ -1,4 +1,4 @@
-entrypoint: python model.py
+entrypoint: python models.py
 python: 3.6
 cuda: 9.
 build_steps:
