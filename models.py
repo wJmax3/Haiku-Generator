@@ -1,4 +1,3 @@
-import keras
 from keras.layers import Add, Dense, Input, LSTM
 from keras.models import Model
 from keras.utils import np_utils
