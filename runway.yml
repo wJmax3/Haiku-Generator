@@ -1,5 +1,5 @@
 entrypoint: python models.py
 python: 3.6
-cuda: 9.2
+cuda: 9.
 build_steps:
   - pip install -r requirements.txt
